@@ -1,7 +1,11 @@
 <h1 align="center">Whassup, This is Hòa</h1>
-<h3 align="center">Just a college student who are interested in .NET and Java</h3>
+<h3 align="center">Just a college student who are interested in .NET, Java and Spider-Man 😏</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/quanghoa.luu266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quanghoa.luu266" height="30" width="40" /></a>
+</p>
+
 <p align="left">
 </p>
 
