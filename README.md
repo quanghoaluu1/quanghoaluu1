@@ -2,9 +2,7 @@
 <h3 align="center">Just a college student who are interested in .NET, Java and Spider-Man 😏</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/quanghoa.luu266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quanghoa.luu266" height="30" width="40" /></a>](https://img.shields.io/badge/Quang_H%C3%B2a-white?style=social&logo=facebook&logoColor=blue)
-</p>
+<a href="https://fb.com/hungmyzone197" target="blank"><img align="center" src="https://img.shields.io/badge/-Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0ng-4267b2?logo=facebook&logoColor=white" /></a>
 
 <p align="left">
 </p>
