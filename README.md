@@ -3,8 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/quanghoa.luu266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quanghoa.luu266" height="30" width="40" /></a>](https://img.shields.io/badge/Quang_H%C3%B2a-white?style=social&logo=facebook&logoColor=blue&link=https%3A%2F%2Fwww.facebook.com%2Fquanghoa.luu266
-)
+<a href="https://fb.com/quanghoa.luu266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quanghoa.luu266" height="30" width="40" /></a>](https://img.shields.io/badge/Quang_H%C3%B2a-white?style=social&logo=facebook&logoColor=blue)
 </p>
 
 <p align="left">
