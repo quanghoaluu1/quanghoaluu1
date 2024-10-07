@@ -3,6 +3,10 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73115&background=0F18E100&width=670&lines=Just+a+college+student+who+are+interested+in+.NET%2C+Java;+and+Spider-Man%F0%9F%98%8F" alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+ <img src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-6/462326603_1891868977972562_3178122749020158993_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFnaPRerc4ywjltLVQ7_gkpbcVy6E-4JtJtxXLoT7gm0k3w-YdvPYSkDWalN8mxcoxZyl9FcZgVUMiuzsXzhMJC&_nc_ohc=wk_qlFGxb0sQ7kNvgFdj4QF&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=AtV_LZgfq2YjZ3Dhoz2qsvG&oh=00_AYCHxiqZS24xFr3igyevrF29jwiAkahzrjNpmfAfkafYnQ&oe=6709A1AC">
+</p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/quanghoa.luu266" target="blank"><img align="center" src="https://img.shields.io/badge/-Quang_H%C3%B2a-4267b2?logo=facebook&logoColor=white" /></a>
 
